@@ -1,0 +1,17 @@
+Money Manager Application Submission
+
+Frontend GitHub Repository:
+https://github.com/Gokul1234678/money-manager-frontend
+Last Commit Hash:
+a69f2f3979b27fdbd9d421a5406266aee41658bd
+
+Backend GitHub Repository:
+https://github.com/Gokul1234678/money-manager-backend
+Last Commit Hash:
+8dce9a3bd85b645a903d9c5eb86c621d0be74915
+
+Frontend Deployment URL:
+https://money-manager-frontend-ags.netlify.app/
+
+Backend Deployment URL:
+https://money-manager-backend-94d8.onrender.com
